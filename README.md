@@ -12,5 +12,5 @@
 💡 I enjoy creating interactive software with impact and logical depth.
 
 📫 Feel free to connect with me:  
-[LinkedIn](https://www.linkedin.com/in/elioz-kolani) | 📩 [Email](mailto:kolanielioz@gmail.com)
+    [LinkedIn](https://www.linkedin.com/in/elioz-kolani) | 📩 [Email](mailto:kolanielioz@gmail.com)
 

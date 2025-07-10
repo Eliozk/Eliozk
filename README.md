@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm Elioz!
 
-<!--
-**Eliozk/Eliozk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I'm a 3rd-year Computer Science student at Ariel University, passionate about software development—especially games and simulations with Unity & C#.
 
-Here are some ideas to get you started:
+🧠 Final project: Developed a rehabilitation game for brain injury patients using Unity & C#. Scored 100.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills:
+- Languages: Java, C++, C#, Python
+- Tools: Unity, Visual Studio, Git
+- Databases: SQL, MongoDB
+
+💡 I enjoy creating interactive software with impact and logical depth.
+
+📫 Feel free to connect with me:  
+[LinkedIn](https://www.linkedin.com/in/elioz-kolani) | 📩 [Email](mailto:kolanielioz@gmail.com)
+

@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Elioz!
 
-🎮 I'm a 3rd-year Computer Science student at Ariel University, passionate about software development—especially games and simulations with Unity & C#.
+🎮 I'm a 3rd-year Computer Science student at Ariel University, passionate about software development-especially games and simulations with Unity & C#.
 
 🧠 Final project: Developed a rehabilitation game for brain injury patients using Unity & C#. Scored 100 in the course. [Watch_The_Game](https://github.com/Eliozk/The_Rise_Of_The_King_Game) 
 

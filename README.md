@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Elioz!
 
-🎮 I'm a 3rd-year Computer Science student at Ariel University, passionate about software development with visible outcomes - I enjoy turning code into real, interactive experiences.
+💻 Computer Science B.Sc. graduate from Ariel University<br> passionate about software development with visible outcomes - I enjoy turning code into real, interactive experiences.
 
-🧠 Final project: Developed a rehabilitation game for brain injury patients using Unity & C#. Scored 100 in the course.  
+🧠 Final project: Developed a rehabilitation game for brain injury patients using Unity & C#, combining gameplay logic, interactive tasks, progression, and cognitive feedback mechanisms. Scored 100 in the Game Development course.  
 ▶️ [Watch_The_Game](https://github.com/Eliozk/The_Rise_Of_The_King_Game)
 
 ---
@@ -25,7 +25,11 @@
 
 ---
 
-💡 I enjoy creating interactive software with impact and logical depth.
+### 🚀 Main Interests
 
-📫 Feel free to connect with me:  
+Backend development | Unity & game development | Interactive systems | Java | Python | AI-powered tools
+
+💡 I enjoy creating meaningful software products with impact, structure, and logical depth.
+
+📫 Feel free to connect with me:
 [LinkedIn](https://www.linkedin.com/in/elioz-kolani) | 📩 [Email](mailto:kolanielioz@gmail.com)
